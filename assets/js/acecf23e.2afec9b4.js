@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvegandocs=self.webpackChunkvegandocs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/vegandocs/blog","blogTitle":"Blog","authorsListPath":"/vegandocs/blog/authors"}')}}]);
