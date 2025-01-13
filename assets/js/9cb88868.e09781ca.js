@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvegandocs=self.webpackChunkvegandocs||[]).push([[8555],{2518:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/vegandocs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
