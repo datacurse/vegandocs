@@ -14,7 +14,7 @@ const config: Config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/vegandocs/',
-  trailingSlash: true,
+  //trailingSlash: true,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -51,14 +51,12 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          routeBasePath: '/', // Makes docs flat at root level
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/datacurse/vegandocs/tree/gh-pages',
         },
         blog: {
-          routeBasePath: '/', // Makes docs flat at root level
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
